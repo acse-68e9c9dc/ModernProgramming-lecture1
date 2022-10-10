@@ -5,4 +5,3 @@ print(a)
 
 def mengyang(x):
     return x+1
--_-
