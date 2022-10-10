@@ -1,5 +1,2 @@
 # ModernProgramming-lecture1
-
-Just try
-try again
-try again
+MP lecture1 10.10.2022
